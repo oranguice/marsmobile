@@ -1,0 +1,2 @@
+src="../../..//www.gstatic.com	src="http://www.gstatic.com
+href="../../../intl/en	href="http://www.google.com/intl/en
