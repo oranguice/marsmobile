@@ -1,2 +1,7 @@
+E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\animation,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\components,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\layout,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\material-design,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\patterns,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\resources,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\style,E:\My_Documents\My_Project\[000000]Studio\[20]WebService\test01\design\spec\usability
+
+
 src="../../..//www.gstatic.com	src="http://www.gstatic.com
 href="../../../intl/en	href="http://www.google.com/intl/en
+src="//material-design.storage	src="http://material-design.storage
+href="../css/style.css"	href="http://www.google.com/design/spec/css/style.css"
